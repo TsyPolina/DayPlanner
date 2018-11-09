@@ -1,7 +1,7 @@
   ![UseCase](https://github.com/TsyPolina/DayPlanner/blob/master/documentation/diagrams/use%20case/UseCase.png)
 # Cодержние
 1. [Актеры](#1)
-2. [Ванианты использования](#2)<br>
+2. [Варианты использования](#2)<br>
 2.1 [Добавить задачу](#2.1) <br>
 2.2 [Удалить задачу](#2.2) <br>
 2.3 [Пометить выполненую задачу](#2.3) <br>
